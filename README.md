@@ -199,6 +199,6 @@ Dự án được phát triển bởi 3 thành viên:
 |--------------------------|--------------------------|
 | Võ Vĩnh Thái             | Phát triển toàn bộ mã nguồn,kiểm thử, triển khai dự án, thuyết trình, đề xuất cải tiến.|
 | Lê Ngọc Hưng            | Thực hiện video giới thiệu|
-| Phạm Tiến Dũng   | Viết báo cáo.  |
+| Nguyễn Tiến Dũng   | Viết báo cáo.  |
 
 © 2025 NHÓM 2, CNTT 16-01, TRƯỜNG ĐẠI HỌC ĐẠI NAM
