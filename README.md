@@ -3,8 +3,13 @@
 <div align="center">
 
 <p align="center">
-  <img src="./anhimage/logodnu.webp" alt="DaiNam University Logo" width="200"/>
-    <img src="./anhimage/LogoAIoTLab.png" alt="AIoTLab Logo" width="170"/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Wipper0000/Student_behavior_recognition/refs/heads/main/anhimage/logodnu.webp" alt="DaiNam University Logo" width="350"/>
+  <img src="https://github.com/Wipper0000/Student_behavior_recognition/raw/main/anhimage/LogoAIoTLab.png" alt="Ảnh của tôi" width="350"/>
+</div>
+
+
 </p>
 
 [![Made by AIoTLab](https://img.shields.io/badge/Made%20by%20AIoTLab-blue?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
@@ -25,8 +30,10 @@
 
 ## 🌟 Kiến trúc hệ thống
 <p align="center">
-  <img src="./anhimage/Flowchart.png" alt="Flowchart" width="800"/>
+ <img src="https://github.com/Wipper0000/Student_behavior_recognition/raw/main/anhimage/model_test.jpg" alt="Ảnh của tôi" width="300"/>
+
 </p>
+
 
 ---
 
@@ -178,7 +185,11 @@ Ma trận nhầm lẫn
 <br>
 Độ chính xác trung bình của các nhãn
 <p align="center">
-  <img src="./anhimage/model_test.jpg" alt="model_test" width="800"/>
+ <p align="center">
+ <img src="https://github.com/Wipper0000/Student_behavior_recognition/raw/main/anhimage/model_test.jpg" alt="Ảnh của tôi" width="1700"/>
+</p>
+</p>
+
 </p>
 ## 🤝 Đóng góp
 Dự án được phát triển bởi 3 thành viên:
