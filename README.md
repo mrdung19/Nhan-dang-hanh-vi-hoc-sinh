@@ -5,8 +5,8 @@
 <p align="center">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Wipper0000/Student_behavior_recognition/refs/heads/main/anhimage/logodnu.webp" alt="DaiNam University Logo" width="350"/>
-  <img src="https://github.com/Wipper0000/Student_behavior_recognition/raw/main/anhimage/LogoAIoTLab.png" alt="Ảnh của tôi" width="350"/>
+  <img src="https://raw.githubusercontent.com/Wipper0000/Student_behavior_recognition/refs/heads/main/anhimage/logodnu.webp" alt="DaiNam University Logo" width="300"/>
+  <img src="https://github.com/Wipper0000/Student_behavior_recognition/raw/main/anhimage/LogoAIoTLab.png" alt="Ảnh của tôi" width="300"/>
 </div>
 
 
@@ -30,7 +30,7 @@
 
 ## 🌟 Kiến trúc hệ thống
 <p align="center">
- <img src="https://github.com/Wipper0000/Student_behavior_recognition/raw/main/anhimage/model_test.jpg" alt="Ảnh của tôi" width="300"/>
+<img src="https://raw.githubusercontent.com/Wipper0000/Student_behavior_recognition/refs/heads/main/anhimage/Flowchart.png" alt="Ảnh của tôi" width="1000"/>
 
 </p>
 
@@ -180,7 +180,8 @@ Sau đó các frame nhận diện được bởi mô hình sẽ được lưu v�
 ## Kết quả train model
 Ma trận nhầm lẫn
 <p align="center">
-  <img src="./anhimage/confusion_matrix.png" alt="matrix" width="800"/>
+<img src="https://github.com/Wipper0000/Student_behavior_recognition/raw/main/anhimage/confusion_matrix.png" alt="Ảnh của tôi" width="1000"/>
+
 </p>
 <br>
 Độ chính xác trung bình của các nhãn
