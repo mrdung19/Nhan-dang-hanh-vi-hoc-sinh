@@ -30,7 +30,8 @@
 
 ## 🌟 Kiến trúc hệ thống
 <p align="center">
-<img src="https://raw.githubusercontent.com/Wipper0000/Student_behavior_recognition/refs/heads/main/anhimage/Flowchart.png" alt="Ảnh của tôi" width="1000"/>
+<img src="https://github.com/Wipper0000/Student_behavior_recognition/raw/main/anhimage/Flowchart.png" alt="Flowchart" width="500"/>
+
 
 </p>
 
